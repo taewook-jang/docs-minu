@@ -3,10 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="MINU Framework V3 - User Manual"
+                 name="MINU Framework v3 - User Manual"
                  start-page="starter.md">
 
     <toc-element topic="목차-아이디어.md"/>
+    <toc-element topic="잡다꾸리.md"/>
     <toc-element topic="starter.md"/>
 
 
