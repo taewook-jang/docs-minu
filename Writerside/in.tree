@@ -7,17 +7,26 @@
                  start-page="starter.md">
 
     <toc-element topic="미누-매뉴얼.md">
+        <toc-element topic="1-시작하기.md"/>
+        <toc-element topic="2-시작하기.md"/>
+        <toc-element topic="3-실전-개발-가이드.md"/>
+        <toc-element topic="4-개발-프로세스.md"/>
+        <toc-element topic="5-문제-해결-가이드.md"/>
+        <toc-element topic="6-개발-표준-및-규칙.md"/>
+        <toc-element topic="7-유용한-도구와-팁.md"/>
+        <toc-element topic="8-참고-자료.md"/>
+    </toc-element>
+
+    <toc-element topic="잡다꾸리.md">
+        <toc-element topic="목차-아이디어.md"/>
         <toc-element topic="목차-아이디어-장태욱.md"/>
         <toc-element topic="개발자-매뉴얼-목차-이현호.md"/>
         <toc-element topic="목차-아이디어-김영훈.md"/>
+        <toc-element topic="매뉴얼-목차-클로드-제공.md"/>
+        <toc-element topic="매뉴얼-목차-클로드-제공-2.md"/>
+        <toc-element topic="매뉴얼-목차-클로드-제공-3.md"/>
+        <toc-element topic="커서가-만듬.md"/>
     </toc-element>
-    <toc-element topic="목차-아이디어.md"/>
-    <toc-element topic="매뉴얼-목차-클로드-제공.md"/>
-    <toc-element topic="매뉴얼-목차-클로드-제공-2.md"/>
-    <toc-element topic="매뉴얼-목차-클로드-제공-3.md"/>
-    <toc-element topic="잡다꾸리.md"/>
     <toc-element topic="starter.md"/>
-
-
 
 </instance-profile>
