@@ -7,7 +7,7 @@
                  start-page="starter.md">
 
     <toc-element topic="시작하기.md"/>
-    <toc-element topic="기본 개념 이해하기.md"/>
+    <toc-element topic="기본-개념-이해하기.md"/>
     <toc-element topic="실전-개발-가이드.md"/>
     <toc-element topic="개발-프로세스.md"/>
     <toc-element topic="문제-해결-가이드.md"/>
